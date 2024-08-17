@@ -8,9 +8,9 @@ export default function BookList() {
     return (
         <div>
             <h3>{pageTitle}</h3>
-            <img src={book1} alt="Paramount War Cover Art" />
-            <img src={book2} alt="Egghead Arc Cover Art" />
-            <img src={book3} alt="Punk Hazard Cover Art" />
+            <img src={book1} alt="Paramount War Cover Art" height={450} width={250} />
+            <img src={book2} alt="Egghead Arc Cover Art" height={450} width={250} />
+            <img src={book3} alt="Punk Hazard Cover Art" height={450} width={250} />
         </div>
     );
 }
