@@ -2,9 +2,11 @@
     color: magenta;
     font-size: 32px;
     text-align: left;
+    padding-left: 8px;
 }
 
 .movieHeading {
     color: chartreuse;
     text-align: left;
+    padding-left: 8px;
 }
