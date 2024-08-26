@@ -1,12 +1,12 @@
-export default function HobbyIntroduction () {
-   return(
-      <div>
-         <h2>3 Fun Facts About Needlepoint</h2>
-         <ol>
-            <li>Needlepoint uses a specialized canvas as it's base.</li>
-            <li>The most basic stitch is called a tent stitch.</li>
-            <li>Needlepoint uses a lot of different kinds of fibers.</li>
-         </ol>
-      </div>
-   );
+export default function HobbyIntroduction() {
+    return (
+        <div>
+            <h2>3 Fun facts about Video Gamees</h2>
+            <ol>
+                <li>The first video game "tennis" (later known as pong) came out in 1958!</li>
+                <li>The largest gaming platform in the world has a collection of over 101,000 games!</li>
+                <li>I enjoy them, so fun fact about me.</li>
+            </ol>
+        </div>
+    );
 }
